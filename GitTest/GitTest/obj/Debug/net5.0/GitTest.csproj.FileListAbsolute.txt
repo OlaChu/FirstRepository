@@ -1,0 +1,16 @@
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.exe
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.deps.json
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.runtimeconfig.json
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.runtimeconfig.dev.json
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.dll
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\ref\GitTest.dll
+C:\GIT\FirstRepository\GitTest\GitTest\bin\Debug\net5.0\GitTest.pdb
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.csproj.AssemblyReference.cache
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.AssemblyInfoInputs.cache
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.AssemblyInfo.cs
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.csproj.CoreCompileInputs.cache
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.dll
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\ref\GitTest.dll
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.pdb
+C:\GIT\FirstRepository\GitTest\GitTest\obj\Debug\net5.0\GitTest.genruntimeconfig.cache
